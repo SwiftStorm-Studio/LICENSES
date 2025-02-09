@@ -21,10 +21,13 @@ if You do not wish to have Your name or contribution listed, You may request to 
 excluded, and the Licensor will comply with Your request.
 
 4. Non-Commercial Use Only
-The software licensed under the S1-NC License 1.0 is for non-commercial purposes only.
-Any use of this software for commercial purposes is strictly prohibited. "Commercial
-purposes" include, but are not limited to, selling the software, using the software in
-a paid service, or incorporating the software into a product or service for profit.
+The software licensed under the S1-NU License is for non-commercial purposes only.
+"Commercial purposes" include, but are not limited to:
+- Selling, licensing, or renting the software, or any modified versions thereof.
+- Using the software as part of a product, service, or platform that generates revenue.
+- Integrating the software into any system or service that is monetized through
+  advertisements, sponsorships, or paid subscriptions.
+- Using the software within a company or organization in a revenue-generating capacity.
 
 5. Disclaimer of Liability
 This software is provided "AS IS", without warranty of any kind, express or implied,
@@ -51,10 +54,11 @@ then any patent licenses granted to You under this License for that work shall t
 as of the date such litigation is filed.
 
 8. Termination of License
-This License will remain in effect until the LICENSE file is removed from the repository.
-In the event of termination, all rights granted to You under this License shall cease,
-and You must immediately stop using the software.
+This License will remain in effect indefinitely for all versions released while the LICENSE
+file was present in the repository. Removing the LICENSE file only affects future versions
+and does not impact software already released under this License.
 
 9. License Updates
-The right to update or modify this License rests solely with the original developer or
-SwiftStormStudio. No third party is allowed to change or alter this License in any way.
+The right to update or modify this License rests solely with the original developer(s).
+No third party is allowed to change or alter this License in any way. However, any updates
+or modifications will not retroactively affect versions released under a previous License.

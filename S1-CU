@@ -20,10 +20,12 @@ Your contribution acknowledged in a Contributors file within the repository. How
 if You do not wish to have Your name or contribution listed, You may request to be
 excluded, and the Licensor will comply with Your request.
 
-4. Commercial Use
+4. Commercial Use and Attribution Requirement
 Any use of this software for commercial purposes must include clear attribution to
-the original developer or SwiftStormStudio in any accompanying documentation, product
-information, or visible notices.
+the original developer(s) in one of the following ways:
+- In the software's user interface or about section.
+- In accompanying documentation or product information.
+- On a publicly accessible website detailing the product or service.
 
 5. Disclaimer of Liability
 This software is provided "AS IS", without warranty of any kind, express or implied,
@@ -49,10 +51,11 @@ within the work constitutes patent infringement, then any patent licenses grante
 under this License for that work shall terminate as of the date such litigation is filed.
 
 8. Termination of License
-This License will remain in effect until the LICENSE file is removed from the repository.
-In the event of termination, all rights granted to You under this License shall cease,
-and You must immediately stop using the software.
+This License will remain in effect indefinitely for all versions released while the LICENSE
+file was present in the repository. Removing the LICENSE file only affects future versions
+and does not impact software already released under this License.
 
 9. License Updates
-The right to update or modify this License rests solely with the original developer or
-SwiftStormStudio. No third party is allowed to change or alter this License in any way.
+The right to update or modify this License rests solely with the original developer(s).
+No third party is allowed to change or alter this License in any way. However, any updates
+or modifications will not retroactively affect versions released under a previous License.

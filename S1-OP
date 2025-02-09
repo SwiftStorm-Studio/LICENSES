@@ -15,9 +15,9 @@ prepare derivative works of, publicly display, publicly perform, sublicense, and
 distribute the software and such derivative works for any purpose, without restriction.
 
 3. No Attribution Required
-You are not required to provide attribution to the original developer or SwiftStormStudio
-when using, modifying, or distributing this software. However, crediting the original
-developers is appreciated but entirely optional.
+You are not required to provide attribution to the original developer(s) when using,
+modifying, or distributing this software. However, crediting the original developers
+is appreciated but entirely optional.
 
 4. Disclaimer of Liability
 This software is provided "AS IS", without warranty of any kind, express or implied,
@@ -27,9 +27,10 @@ damages, or other liability, whether in an action of contract, tort, or otherwis
 from, out of, or in connection with the software or the use or other dealings in the software.
 
 5. Forking and License Retention
-You may fork, modify, and distribute the project under any conditions, including
-changing the license of the derived works. This License does not impose any restrictions
-on derivative works.
+You may fork, modify, and distribute the project under the following conditions:
+- The fork must retain this License in its entirety for the original work.
+- Any modifications or derivative works may be released under this License or any other
+  open-source license compliant with the Open Source Definition (OSI-approved licenses).
 
 6. Patent Rights
 Subject to the terms and conditions of this License, each Contributor grants to You
