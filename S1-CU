@@ -22,10 +22,15 @@ excluded, and the Licensor will comply with Your request.
 
 4. Commercial Use and Attribution Requirement
 Any use of this software for commercial purposes must include clear attribution to
-the original developer(s) in one of the following ways:
-- In the software's user interface or about section.
-- In accompanying documentation or product information.
+the original developer(s) in at least one of the following ways:
+
+- In the software’s user interface (e.g., About section, settings page).
+- In accompanying documentation, manuals, or product information.
 - On a publicly accessible website detailing the product or service.
+- In an acknowledgment file within the source code repository.
+
+The attribution must be visible and reasonably accessible to end users, but it does not
+need to be intrusive or interfere with normal usage.
 
 5. Disclaimer of Liability
 This software is provided "AS IS", without warranty of any kind, express or implied,
